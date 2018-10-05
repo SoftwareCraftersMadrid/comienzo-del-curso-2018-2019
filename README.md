@@ -3,4 +3,4 @@
 ## [Meetup](https://www.meetup.com/madswcraft/events/254954701/)
 
 
-- [Notas de Juan](#notas-juan.md)
+- [Notas de Juan](notas-juan.md)
